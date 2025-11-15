@@ -1,4 +1,4 @@
-# Design Patterns – Office System (Pseudocode Version)
+# Design Patterns – Office System
 
 This README explains how three major design patterns are used to build a simple office system:
 
@@ -255,5 +255,3 @@ class HRManager:
 | Observer  | Auto-notifications to observers | Employees receive notice |
 
 ---
-
-# End of README
